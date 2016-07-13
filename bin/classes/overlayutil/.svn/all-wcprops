@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/app/search/lbs-mobile/!svn/ver/165368/trunk/mapsdk/vector/android/BaiduMapSDKUtils/src/com/baidu/mapapi/overlayutil
+END
+BusLineOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/app/search/lbs-mobile/!svn/ver/128066/trunk/mapsdk/vector/android/BaiduMapSDKUtils/src/com/baidu/mapapi/overlayutil/BusLineOverlay.java
+END
+DrivingRouteOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/lbs-mobile/!svn/ver/128066/trunk/mapsdk/vector/android/BaiduMapSDKUtils/src/com/baidu/mapapi/overlayutil/DrivingRouteOverlay.java
+END
+TransitRouteOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/lbs-mobile/!svn/ver/128066/trunk/mapsdk/vector/android/BaiduMapSDKUtils/src/com/baidu/mapapi/overlayutil/TransitRouteOverlay.java
+END
+PoiOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/app/search/lbs-mobile/!svn/ver/128066/trunk/mapsdk/vector/android/BaiduMapSDKUtils/src/com/baidu/mapapi/overlayutil/PoiOverlay.java
+END
+OverlayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/app/search/lbs-mobile/!svn/ver/165368/trunk/mapsdk/vector/android/BaiduMapSDKUtils/src/com/baidu/mapapi/overlayutil/OverlayManager.java
+END
+WalkingRouteOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/app/search/lbs-mobile/!svn/ver/128066/trunk/mapsdk/vector/android/BaiduMapSDKUtils/src/com/baidu/mapapi/overlayutil/WalkingRouteOverlay.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/app/search/lbs-mobile/!svn/ver/128066/trunk/mapsdk/vector/android/BaiduMapSDKUtils/src/com/baidu/mapapi/overlayutil/package.html
+END
